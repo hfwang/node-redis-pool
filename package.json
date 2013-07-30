@@ -1,6 +1,6 @@
 {
-  "name": "redis-pool",
-  "description": "Connection pool for node-redis",
+  "name": "redis-generic-pool",
+  "description": "Connection pool (using generic-pool) for node-redis",
   "version": "1.0.0",
   "keywords": [
     "redis",
